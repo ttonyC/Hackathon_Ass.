@@ -4,4 +4,4 @@ Building Shopping cart website
 
 got tutorial from: https://www.youtube.com/watch?v=GHNLWHGCBEc
 
-Currently on episode 7 @ 2:04:00
+Currently on episode 9 @ 00:00:00
